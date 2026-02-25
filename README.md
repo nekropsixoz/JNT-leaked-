@@ -80,8 +80,3 @@ The results are as follows:
 | Random Number Generation | 212.254%         | Standard  |
 | Reflection               | 118.309%         | Standard  |
 | Subtraction              | 1,209.519%       | Standard  |
-
-### References / Tools
-
-- https://github.com/radioegor146/native-obfuscator - Opensource native obfuscator
-- https://jnic.dev - Commercial native obfuscator made by Konsolas
